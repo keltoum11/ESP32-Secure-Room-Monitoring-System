@@ -102,7 +102,7 @@ Remote dashboard allows:
 ##  Project Preview
 
 ### Prototype
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.jpeg)
 
 ### Web Dashboard
 ![Dashboard](images/dashboard.png)
