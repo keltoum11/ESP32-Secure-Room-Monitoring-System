@@ -1,10 +1,10 @@
-# 🔐 ESP32 Secure Room Monitoring System
+# ESP32 Secure Room Monitoring System
 
 > Embedded smart access control and environmental monitoring system using ESP32, RFID, Fingerprint Sensor, MQTT communication and Web Dashboard.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed as an internship project at **Mobilis**.
 
@@ -12,16 +12,16 @@ The objective was to design a smart embedded system for securing technical rooms
 
 The system combines:
 
-- 🔒 Secure room access control  
-- 🌡 Environmental monitoring  
-- 🌐 Remote supervision dashboard  
-- 📡 IoT communication protocols  
+-  Secure room access control  
+-  Environmental monitoring  
+-  Remote supervision dashboard  
+- IoT communication protocols  
 
 ---
 
-## 🚀 Main Features
+##  Main Features
 
-### 🔐 Double Authentication Access
+### Double Authentication Access
 
 Access is granted only after successful verification of:
 
@@ -35,7 +35,7 @@ Real-time monitoring of:
 - Temperature  
 - Humidity  
 
-### 🌐 Web Dashboard
+###  Web Dashboard
 
 Remote dashboard allows:
 
@@ -44,14 +44,14 @@ Remote dashboard allows:
 - Alerts monitoring  
 - Device supervision  
 
-### 💡 Remote Controls
+###  Remote Controls
 
 - Fan control simulation  
 - Lighting control simulation  
 
 ---
 
-## 🛠 Hardware Components
+##  Hardware Components
 
 - ESP32-WROOM-32  
 - RC522 RFID Reader  
@@ -64,7 +64,7 @@ Remote dashboard allows:
 
 ---
 
-## 💻 Software & Tools
+##  Software & Tools
 
 - Arduino IDE  
 - Visual Studio Code  
@@ -74,7 +74,7 @@ Remote dashboard allows:
 
 ---
 
-## 🔌 Communication Protocols
+##  Communication Protocols
 
 | Protocol | Usage |
 |---------|------|
@@ -87,7 +87,7 @@ Remote dashboard allows:
 
 ---
 
-## ⚙️ System Workflow
+##  System Workflow
 
 1. User places finger on sensor  
 2. Fingerprint is verified  
@@ -99,7 +99,7 @@ Remote dashboard allows:
 
 ---
 
-## 📷 Project Preview
+##  Project Preview
 
 ### Prototype
 ![Prototype](images/prototype.jpg)
@@ -112,7 +112,7 @@ Remote dashboard allows:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Fire / Smoke detection  
 - GSM alert notifications  
@@ -123,7 +123,7 @@ Remote dashboard allows:
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 - Embedded Systems Design  
 - ESP32 Programming  
@@ -136,7 +136,7 @@ Remote dashboard allows:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Keltoum Larbaoui**  
 Electrical Engineering Student  
